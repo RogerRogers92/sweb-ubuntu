@@ -1,0 +1,7 @@
+#Source: https://medium.com/@shrutipal700/hosting-a-website-on-ubuntu-virtual-machine-36598ade82a1
+
+#In Ubuntu VM open terminal and install apache2
+
+sudo apt update
+sudo apt install apache2
+sudo systemctl status apache2 
